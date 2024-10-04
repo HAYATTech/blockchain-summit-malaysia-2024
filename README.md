@@ -3,7 +3,7 @@ The event was conducted on 3rd October 2024 at Grand Hyatt, Kuala Lumpur
 
 Participants: Azri & Ali
 
-## Keypoints
+## Summary Keypoints
 1. Blockchain Integration and Adoption:
     - Emphasis on blockchain's potential beyond cryptocurrencies
     - Focus on solving real-world problems and enabling existing systems
